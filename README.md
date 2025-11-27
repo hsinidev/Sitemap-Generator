@@ -7,7 +7,7 @@
 [![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://SitemapGenerator.doodax.com)
 
 ## 🌐 Live Demo
-👉 **[Click here to view the Live Demo: SitemapGenerator.doodax.com](https://SitemapGenerator.doodax.com)**
+👉 **[Click here to view the Live Demo:doodax.com](https://doodax.com/tools/sitemap-generator/index.html)**
 
 ---
 
